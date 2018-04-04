@@ -11,7 +11,7 @@ parsergen/Makefile
 */target
 #sparkdatalog/src/main/java/socialite
 sparkdatalog/lib
-.idea
+*/.idea
 *.iml
 sparkdatalog/project/target
 sparkdatalog/project/project/target
